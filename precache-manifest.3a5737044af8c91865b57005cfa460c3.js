@@ -1,47 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d47a6167422ad84d5735caff5c64a1e",
+    "revision": "99cdc90774f196aca3c480bb834f5f97",
     "url": "/index.html"
   },
   {
-    "revision": "5ca3de79f87e4e666fb3",
+    "revision": "12525f8468af986f9b66",
     "url": "/static/css/3.61a43a8e.chunk.css"
   },
   {
-    "revision": "b0491eb0c3668cda60a5",
+    "revision": "7140c40e737aa03fcdd1",
     "url": "/static/css/4.20c172bd.chunk.css"
   },
   {
-    "revision": "0af81411d090e6141cc1",
-    "url": "/static/css/main.d3e925fe.chunk.css"
+    "revision": "6b73bfbf2093432b37c6",
+    "url": "/static/css/main.2890672d.chunk.css"
   },
   {
-    "revision": "82f3e8ea33fe4588d936",
-    "url": "/static/js/2.dbad8b8f.chunk.js"
+    "revision": "780c1e13d59ea6231dc8",
+    "url": "/static/js/2.40e6a952.chunk.js"
   },
   {
     "revision": "ea6bcf1255802265408f45d205d80624",
-    "url": "/static/js/2.dbad8b8f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.40e6a952.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ca3de79f87e4e666fb3",
-    "url": "/static/js/3.74bebca5.chunk.js"
+    "revision": "12525f8468af986f9b66",
+    "url": "/static/js/3.d117d579.chunk.js"
   },
   {
-    "revision": "b0491eb0c3668cda60a5",
-    "url": "/static/js/4.d0079f5e.chunk.js"
+    "revision": "7140c40e737aa03fcdd1",
+    "url": "/static/js/4.61347ebb.chunk.js"
   },
   {
-    "revision": "0af81411d090e6141cc1",
-    "url": "/static/js/main.75f1f911.chunk.js"
+    "revision": "6b73bfbf2093432b37c6",
+    "url": "/static/js/main.16275bb4.chunk.js"
   },
   {
     "revision": "a9496fd66f8621a534cff55479dfb65e",
-    "url": "/static/js/main.75f1f911.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.16275bb4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d452b38905d08e8fc3fd",
-    "url": "/static/js/runtime-main.15d5a7af.js"
+    "revision": "e3a9c4b940cd86a783fc",
+    "url": "/static/js/runtime-main.b3e6c146.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -74,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
-  },
-  {
-    "revision": "5fbab39b9e5cda16efd83cc7f02230b7",
-    "url": "/static/media/legendLogo.5fbab39b.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
